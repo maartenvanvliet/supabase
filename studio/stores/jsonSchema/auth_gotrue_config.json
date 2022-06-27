@@ -451,7 +451,7 @@
     "SECURITY_CAPTCHA_ENABLED": {
       "title": "hCaptcha protection enabled",
       "type": "boolean",
-      "help": "Whether endpoints are protected from abuse with hCaptcha."
+      "help": "Enables hCaptcha protection on all auth endpoints."
     },
     "SECURITY_CAPTCHA_SECRET": {
       "title": "hCaptcha secret",
