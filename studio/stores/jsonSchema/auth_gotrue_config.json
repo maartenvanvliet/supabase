@@ -456,7 +456,7 @@
     "SMS_OTP_EXP": {
       "title": "Sms Otp Expiration",
       "type": "integer",
-      "help": "Duration before an sms otp expires."
+      "help": "Duration, in seconds, before an sms otp expires."
     },
     "SMS_OTP_LENGTH": {
       "title": "Sms Otp Length",
